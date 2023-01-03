@@ -1,0 +1,46 @@
+{
+    "streaming":[
+        {
+            "id": 1,
+            "name": "Netflix",
+            "icon": "Netflix.png",
+            "descrition": "Netflix is a subscription-based streaming service that allows our members to watch TV shows and movies on an internet-connected device."            
+        },
+        {
+            "id": 2,
+            "name": "Star Plus",
+            "icon": "StarPlus.png",
+            "descrition": "The service features television and film content from the libraries of Disney subsidiaries, including Star Originals, 20th Television, 20th Television Animation, Searchlight Television, 20th Century Studios, 20th Century Animation (films only), ABC Signature, Freeform, FX Networks, Hollywood Pictures, Hotstar, Hulu, National Geographic, Searchlight Pictures, Touchstone Pictures and many more, as well as live sports from ESPN."            
+        },
+        {
+            "id": 3,
+            "name": "Spotify",
+            "icon": "spotify.png",
+            "descrition": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium."            
+        },
+        {
+            "id": 4,
+            "name": "HBO Max",
+            "icon": "HBO.png",
+            "descrition": "HBO Max is a premium streaming app that combines all of HBO with even more must-see TV shows, blockbuster movies, and exclusive Max Originals"            
+        },
+        {
+            "id": 5,
+            "name": "Disney Plus",
+            "icon": "Disney.png",
+            "descrition": "Disney+ is an American subscription video on-demand over-the-top streaming service owned and operated by the Media and Entertainment Distribution division of The Walt Disney Company."            
+        },
+        {
+            "id": 6,
+            "name": "Prime Video",
+            "icon": "PrimeVideo.png",
+            "descrition": "Amazon Prime Video, or simply Prime Video, is an American subscription video on-demand over-the-top streaming and rental service of Amazon offered as a standalone service or as part of Amazon's Prime subscription."            
+        },        
+        {
+            "id": 7,
+            "name": "Globo Play",
+            "icon": "GloboPlay.png",
+            "descrition": "Globoplay is a subscription video on-demand over-the-top streaming service owned by Grupo Globo. The service primarily distributes films and television series produced by Estúdios Globo "            
+        }
+    ]
+}
